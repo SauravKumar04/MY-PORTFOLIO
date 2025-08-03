@@ -1,0 +1,44 @@
+SAURAV KUMAR
+Full-Stack Developer
+Email: 2023ugee038@nitjsr.ac.in
+Phone: +91 9798616289
+Location: Jamshedpur, India
+
+EDUCATION
+National Institute of Technology, Jamshedpur
+Bachelor of Technology in Computer Science Engineering
+2023 - 2027 (Expected)
+
+TECHNICAL SKILLS
+Languages: C/C++, JavaScript
+Frontend: HTML, CSS, React.js
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools: Git, GitHub, VS Code, Replit
+Fundamentals: Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems
+
+PROJECTS
+
+InvoX - NextGen Invoicing
+- Full-stack MERN application with secure OTP-based authentication
+- Dynamic invoice generation with PDF export functionality
+- Integrated payment processing (UPI, Stripe, PayPal, Crypto)
+- Real-time analytics dashboard and automated email notifications
+- Tech Stack: JavaScript, React, Node.js, Express, MongoDB, Stripe
+- Live Demo: https://invox-invoicing.netlify.app/
+- GitHub: https://github.com/SauravKumar04
+
+medCare - Doctor Appointment System
+- Medical appointment platform with multi-role authentication
+- Advanced doctor search with specialty filtering
+- Integrated Razorpay payment gateway
+- Real-time appointment management system
+- Comprehensive admin dashboard with analytics
+- Tech Stack: JavaScript, React, Node.js, Express, MongoDB, Razorpay
+- Live Demo: https://medcare-frontend.netlify.app/
+- GitHub: https://github.com/SauravKumar04
+
+CONTACT
+LinkedIn: https://www.linkedin.com/in/saurav-kumar-32b61128a/
+GitHub: https://github.com/SauravKumar04
+Portfolio: [Your Portfolio URL]
