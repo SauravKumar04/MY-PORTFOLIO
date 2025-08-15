@@ -206,8 +206,8 @@ const Contact = () => {
                       <div className="text-slate-400 text-sm">Response Time</div>
                     </div>
                     <div className="text-center p-4 bg-white/3 backdrop-blur-sm border border-white/5 rounded-2xl">
-                      <div className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent font-display">100%</div>
-                      <div className="text-slate-400 text-sm">Client Satisfaction</div>
+                      <div className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent font-display">Always</div>
+                      <div className="text-slate-400 text-sm">Ready to Collaborate</div>
                     </div>
                   </div>
                 </div>
