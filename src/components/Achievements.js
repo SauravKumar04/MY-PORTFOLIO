@@ -138,8 +138,8 @@ const Achievements = () => {
                       <div className="text-slate-400 text-sm">Problems Solved</div>
                     </div>
                     <div>
-                      <div className="text-2xl font-display font-bold text-white">95%</div>
-                      <div className="text-slate-400 text-sm">Success Rate</div>
+                      <div className="text-2xl font-display font-bold text-white">100+</div>
+                      <div className="text-slate-400 text-sm">Days Streak</div>
                     </div>
                   </div>
                 </div>
