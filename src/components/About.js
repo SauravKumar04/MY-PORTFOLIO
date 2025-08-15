@@ -212,7 +212,7 @@ const About = () => {
                       <HiAcademicCap className="text-violet-400 text-xl flex-shrink-0" />
                       <div className="flex-1">
                         <p className="text-white font-medium">Bachelor of Technology</p>
-                        <p className="text-slate-400 text-sm">Computer Science & Engineering</p>
+                        <p className="text-slate-400 text-sm">EEE</p>
                       </div>
                     </div>
                     
